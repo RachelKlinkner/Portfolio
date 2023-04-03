@@ -1,0 +1,67 @@
+body{
+    margin:0;
+    background-color:#8A9A5B;
+    padding:1rem 1rem;
+}
+.hamburger{
+    width:3rem
+}
+hr{
+    border-color: black;
+}
+header{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1rem;
+}
+nav{
+    display:none;
+}
+main img{
+    margin:1rem auto;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.479);
+    display: block;
+    max-width:90%;
+    width: 50rem
+}
+main{
+    margin: 1rem;
+    padding: 1rem 1rem;
+}
+.welcometomyportfolio{
+    background-color:#F9F6E5;
+    padding:1rem 1rem;
+}
+.passionandgoals h2{
+    color:#F9F6E5
+}
+.workexperience h2{
+    color:#F9F6E5
+}
+.educationbackground h2{
+    color:#F9F6E5
+}
+.achievementsandleadership h2{
+    color:#F9F6E5
+}
+.contact h2{
+    color:#F9F6E5;
+    text-align: center;
+    font-size: xx-large;
+}
+.contact{
+    text-align: center;
+    line-height: 0.5rem;
+}
+.gallery h2{
+    color:#8A9A5B;
+    font-size:xx-large;
+    text-align:center
+}
+.gallery{
+    background-color: #F9F6E5; 
+    padding: 1rem;
+    width:calc(100% + 4rem);
+    margin-left:-3rem;
+}
